@@ -8,3 +8,4 @@ CREATE TABLE `student` (
 `klas` varchar(16) NOT NULL,
 );
 
+-- tese
